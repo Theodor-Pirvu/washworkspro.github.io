@@ -1,3 +1,3 @@
 
 made with html, css, and javascript. <br> <br>
-domain: washworkspro.github.io
+Click [here](washworkspro.com) to go to site
